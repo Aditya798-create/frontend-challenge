@@ -1,0 +1,84 @@
+body {
+  background-color: hsl(257, 40%, 49%);
+  font-family: 'Open Sans', sans-serif;
+}
+
+.img1 {
+  margin-left: 70px;
+}
+
+.logo {
+  margin-top: -770px;
+  margin-left: 80px;
+  width: 150px;
+}
+
+.img2 {
+  margin-left: 170px;
+  margin-top: 90px;
+  width: 600px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+  float: right;
+  margin-right: 360px;
+  margin-top: 120px;
+  font-size: 35px;
+}
+
+p {
+  color: #fff;
+  float: right;
+  font-size: 20px;
+  margin-top: -260px;
+  margin-right: 190px;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 960px;
+  position: relative;
+  top: -130px;
+  background-color: #fff;
+  padding: 15px 60px;
+  font-family: 'Poppins', sans-serif;
+  color: #6E6E6E;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.img3 {
+  width: 2%;
+  float: right;
+  margin-right: 200px;
+  border-radius: 50%;
+}
+
+.img4 {
+  width: 2%;
+  float: right;
+  border-radius: 50%;
+  margin-right: -100px;
+}
+.img5 {
+  width: 2%;
+  float: right;
+  border-radius: 50%;
+  margin-right: -170px;
+}
+
+a:hover {
+  background-color: hsl(300, 69%, 71%);
+}
+
+.img3:hover {
+    background-color: hsl(300, 69%, 71%);
+}
+.img4:hover {
+    background-color: hsl(300, 69%, 71%);
+}
+.img5:hover {
+    background-color: hsl(300, 69%, 71%);
+}
